@@ -22,3 +22,12 @@
     text-align: center;
     padding: 2em 0 2em 0;
 }
+
+.quote {
+    padding-top: 2em;
+    /*font-size: 4em;*/
+}
+
+.blockquote-reverse p {
+    font-size: 2em;
+}
